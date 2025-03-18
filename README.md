@@ -42,9 +42,6 @@
 
 <h4 align="center">
 
-## Focus on  
-* Networking and BGP
-* eBPF, XDP (Observability tools and codes)
 
 
 <div align="center">
