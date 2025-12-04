@@ -40,14 +40,11 @@
    <img src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png" width="48" title="gRPC"> -->
   </a>
 </p>
-
 <h4 align="center">
-
-
 
 <div align="center">
     <a href="https://github.com/SamanKhalife" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=SamanKhalife&show_icons=true&theme=dark&hide_border=true" />
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=SamanKhalife&show_icons=true&theme=dark&hide_border=true"/>
     </a>
 </div>
 
