@@ -42,9 +42,8 @@
 </p> 
 <h4 align="center">
 
-<!-- <div align="center">
+<div align="center">
     <a href="https://github.com/SamanKhalife" title="Go to Source">
       <img width=400 src="https://github-readme-stats.vercel.app/api?username=SamanKhalife&show_icons=true&theme=dark&hide_border=true"/>
     </a>
-</div> -->
-
+</div>
